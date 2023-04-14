@@ -1,5 +1,5 @@
 -   id: linting-check
     name: Linting check
     description: Lint code and fail on low score
-    entry: ./hooks/lint.sh
+    entry: ./hooks/linting.sh
     language: script

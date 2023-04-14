@@ -1,2 +1,2 @@
-# git-hooks
-Githooks for pre-commit package
+# Git hook
+Pre-commit package hooks
