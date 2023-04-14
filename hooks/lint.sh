@@ -1,2 +1,2 @@
 #!/usr/bin/env sh
-tox -e lint
+tox -e style
