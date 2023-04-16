@@ -1,2 +1,2 @@
 #!/usr/bin/env sh
-tox -e style
+tox -e pylint
