@@ -1,5 +1,5 @@
 -   id: pylint
-    name: Launch pylint
+    name: pylint
     description: Pylint code and fail on low score
     entry: ./hooks/pylint.sh
     language: script
